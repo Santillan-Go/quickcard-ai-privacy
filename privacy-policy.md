@@ -38,6 +38,9 @@ The Application utilizes third-party services that have their own privacy polici
 
 We retain user-provided data for as long as you use the Application and for a reasonable time thereafter. If you wish to delete your data, please contact us at [santillango10405@gmail.com](mailto:santillango10405@gmail.com).
 
+- **Device Identifiers:** We may collect device-specific identifiers such as the Android Advertising ID or Android ID. These are used for analytics, improving app functionality, and managing subscriptions.
+
+
 ## Children's Privacy
 
 The Application is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will delete such information promptly. If you are a parent or guardian and believe your child has provided us with personal information, please contact us at [santillango10405@gmail.com](mailto:santillango10405@gmail.com).
