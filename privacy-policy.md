@@ -10,6 +10,7 @@ We collect certain information to provide and improve our services. This informa
 
 - **Device Information:** Such as your device's Internet Protocol (IP) address, operating system, and device type.
 - **Usage Data:** Information about how you use the Application, including the pages visited, time and date of visits, and time spent on each page.
+- **Device Identifiers:** We may collect device-specific identifiers such as the Android Advertising ID or Android ID. These are used for analytics, improving app functionality, and managing subscriptions.
 - **Location Data:** The Application collects approximate location data to provide location-based services. This data is used for:
   - **Personalized Content:** Delivering content relevant to your location.
   - **Analytics:** Understanding user behavior to improve our services.
@@ -38,7 +39,7 @@ The Application utilizes third-party services that have their own privacy polici
 
 We retain user-provided data for as long as you use the Application and for a reasonable time thereafter. If you wish to delete your data, please contact us at [santillango10405@gmail.com](mailto:santillango10405@gmail.com).
 
-- **Device Identifiers:** We may collect device-specific identifiers such as the Android Advertising ID or Android ID. These are used for analytics, improving app functionality, and managing subscriptions.
+
 
 
 ## Children's Privacy
